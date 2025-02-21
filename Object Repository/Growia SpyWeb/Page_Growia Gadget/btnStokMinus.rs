@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnStokMinus</name>
+   <tag></tag>
+   <elementGuidId>d79b9ec8-d809-45d3-beef-c45e363f9cdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '−' or . = '−')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[(text() = '−' or . = '−')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;radix-\:r1t\:&quot;] > .pt-4 > div:nth-child(4) > .mb-2 > div > button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9fa43ced-2620-41bf-ac6c-9f433e0fa0a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>decrement</value>
+      <webElementGuid>08603192-1796-4f0a-92b9-03683d8dd20d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> bg-neutral-200 text-neutral-600 hover:text-neutral-700 hover:bg-neutral-300 h-full w-10 lg:w-20 rounded-l cursor-pointer outline-none</value>
+      <webElementGuid>0d16bfb1-28c6-42ee-b97d-51cd67ccf0c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>−</value>
+      <webElementGuid>59e33265-e6e7-4a72-b7f3-69085671c036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:r1t:&quot;)/div[@class=&quot;pt-4 flex flex-col gap-1&quot;]/div[@class=&quot;flex flex-col items-center justify-center&quot;]/div[@class=&quot;mb-2 flex flex-row justify-center items-center gap-4&quot;]/div[@class=&quot;flex flex-row w-32 h-8 rounded-lg relative bg-transparent mt-2&quot;]/button[@class=&quot;bg-neutral-200 text-neutral-600 hover:text-neutral-700 hover:bg-neutral-300 h-full w-10 lg:w-20 rounded-l cursor-pointer outline-none&quot;]</value>
+      <webElementGuid>3f7210d3-4853-44ab-ba86-b6bf57694b61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r1t:']/div[2]/div[3]/div/div/button</value>
+      <webElementGuid>e4abcc7b-af47-4561-b9b5-18e77bfa9665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Stok'])[20]/following::button[1]</value>
+      <webElementGuid>e1b0870b-5668-41f3-b683-35874a90ff24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur Stok'])[22]/following::button[1]</value>
+      <webElementGuid>653a60ca-74cd-49f6-b783-5a6648d426f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[20]/preceding::button[1]</value>
+      <webElementGuid>8c09bd65-b6bb-4838-bf8b-41fb2700e494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[43]/div[2]/div[3]/div/div/button</value>
+      <webElementGuid>65c5a8a1-6247-4e97-a6e7-f7bfdd7cadc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '−' or . = '−')]</value>
+      <webElementGuid>541c402e-7e72-455f-bee4-03945dbb209e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

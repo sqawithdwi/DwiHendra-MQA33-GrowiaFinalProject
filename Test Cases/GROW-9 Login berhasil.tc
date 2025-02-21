@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GROW-9 Login berhasil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f809c96c-bd00-4a23-836a-aa9592e1ad10</testCaseGuid>
+</TestCaseEntity>

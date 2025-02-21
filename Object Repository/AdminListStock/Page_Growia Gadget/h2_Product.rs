@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Product</name>
+   <tag></tag>
+   <elementGuidId>17e7ef93-5d15-4bf1-9b60-b00d03ae8877</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur Stok'])[1]/following::h2[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Product&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>c78c1f17-af75-43aa-92c1-d70c6de04732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-3xl font-semibold lg:pl-0 pl-2 leading-1</value>
+      <webElementGuid>0f28da98-53d1-4989-954e-7d0709e72f7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product</value>
+      <webElementGuid>525a7d3d-888d-4374-877b-a69f3f6770bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_aaf875&quot;]/div[@class=&quot;w-full dark:bg-[#0F172A] max-h-screen mx-auto font-inter&quot;]/div[@class=&quot;lg:pl-72 mx-8&quot;]/nav[@class=&quot;flex justify-between items-center flex-wrap pt-8 pb-6 md:flex-nowrap&quot;]/div[@class=&quot;flex justify-between items-center w-full mb-3&quot;]/div[@class=&quot;flex justify-start items-center&quot;]/h2[@class=&quot;text-3xl font-semibold lg:pl-0 pl-2 leading-1&quot;]</value>
+      <webElementGuid>ee228998-d304-4089-ac34-cba850264239</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur Stok'])[1]/following::h2[1]</value>
+      <webElementGuid>c9f1f0bb-9b42-43f3-8227-89400b8f8451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Produk'])[1]/following::h2[1]</value>
+      <webElementGuid>e17c65c9-d9c8-42d5-8567-74b11178b515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No.'])[1]/preceding::h2[1]</value>
+      <webElementGuid>02d84bae-a40a-4e63-9f9e-2cef7fab8961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pict'])[1]/preceding::h2[1]</value>
+      <webElementGuid>fcec77b1-983b-4d6f-8432-d667b44dac0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Product']/parent::*</value>
+      <webElementGuid>1be723d4-3fb8-40d1-a08a-e1d9e814ecad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>f64f069f-b199-4eed-99e0-490747ad0ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Product' or . = 'Product')]</value>
+      <webElementGuid>308e3572-60b2-4dcd-9c43-7b2d9cb96cbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

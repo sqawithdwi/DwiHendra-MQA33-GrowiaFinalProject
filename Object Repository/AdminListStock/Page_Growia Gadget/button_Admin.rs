@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Admin</name>
+   <tag></tag>
+   <elementGuidId>fe35b768-9002-4655-93fe-d3ee0d00f99e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome!'])[1]/preceding::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Admin&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9b660d40-7251-45ac-a51c-5954d7dd6f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-teal-800 text-xs lg:text-sm border-[1px] px-3 py-1 rounded-lg border-teal-800/70 hover:bg-teal-800 hover:text-teal-200 transition-all duration-200</value>
+      <webElementGuid>0ec69b3c-e86c-4af4-87f8-f534fdb9d32b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin</value>
+      <webElementGuid>2b3be78e-0f13-4cd7-b77b-2950626f5381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_aaf875&quot;]/div[@class=&quot;flex flex-col min-h-screen&quot;]/div[@class=&quot;flex flex-col flex-1 bg-neutral-100&quot;]/div[@class=&quot;absolute top-0 w-full px-8 pt-6 mx-auto sm:px-6 lg:px-8&quot;]/nav[@class=&quot;relative flex items-center justify-between sm:h-10&quot;]/div[@class=&quot;w-full flex justify-between items-center flex-grow flex-shrink-0 lg:flex-grow-0&quot;]/a[1]/button[@class=&quot;text-teal-800 text-xs lg:text-sm border-[1px] px-3 py-1 rounded-lg border-teal-800/70 hover:bg-teal-800 hover:text-teal-200 transition-all duration-200&quot;]</value>
+      <webElementGuid>afeecd39-2a0a-4ed7-8a0a-a61b4a2133d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome!'])[1]/preceding::button[1]</value>
+      <webElementGuid>578d6b95-f18e-4b1e-990b-8de5e714e84b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::button[1]</value>
+      <webElementGuid>9c60cdbd-cebd-40e1-b06c-e50a48326d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Admin']/parent::*</value>
+      <webElementGuid>048b64c0-fd65-4678-a47b-c127fc4f1471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>167fb204-e898-4c54-8b32-71821000f718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Admin' or . = 'Admin')]</value>
+      <webElementGuid>bde4d99b-c850-4c1b-aa7b-54363124b426</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
