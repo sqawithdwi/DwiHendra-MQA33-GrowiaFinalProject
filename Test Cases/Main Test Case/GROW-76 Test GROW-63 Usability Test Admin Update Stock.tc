@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Test GROW-63 Usability Test Admin Update Stock Product&#xd;
+Description: h2. Summary&#xd;
+&#xd;
+Usability testing for the Growia E-commerce website is being conducted. The focus is on the admin's ability to update stock products efficiently.&#xd;
+&#xd;
+h2. Context&#xd;
+&#xd;
+The usability test aims to evaluate the website's layout and user experience. It specifically targets the admin's interaction with the product page.&#xd;
+&#xd;
+h2. Acceptance criteria&#xd;
+&#xd;
+* Admin can log in to the Growiashop application easily.&#xd;
+* The product list is displayed clearly and is easily accessible.&#xd;
+* The process of updating product stock is smooth and intuitive.&#xd;
+&#xd;
+h2. Other information&#xd;
+&#xd;
+* Testing involves users acting as admins.&#xd;
+* Feedback will be collected on the user experience with the tested features.&#xd;
+* Recommendations will be made based on areas identified as difficult or confusing for users.&#xd;
+* Link to the dashboard: [https://5nags3iycnjh547.growia.education/dashboard/stock/|https://5nags3iycnjh547.growia.education/dashboard/stock/]&#xd;
+* Growia Gadget: Distributor Produk Apple Terpercaya di Indonesia.</description>
+   <name>GROW-76 Test GROW-63 Usability Test Admin Update Stock</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10000&quot;:&quot;{}&quot;,&quot;customfield_10002&quot;:[],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;EPIC_LINK_SHOULD_BE_USED&quot;,&quot;message&quot;:&quot;To set an epic as the parent, use the epic link instead&quot;}},&quot;customfield_10019&quot;:&quot;0|i000l3:&quot;},&quot;status&quot;:{&quot;id&quot;:10003,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://sqawithdwi.atlassian.net/&quot;,&quot;statusCategory&quot;:{&quot;id&quot;:2,&quot;key&quot;:&quot;new&quot;,&quot;colorName&quot;:&quot;blue-gray&quot;,&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/statuscategory/2&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/status/10003&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;GROW&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;Growia eCommerce - Dwi Hendra MQA 33&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Test GROW-63 Usability Test Admin Update Stock Product&quot;,&quot;description&quot;:&quot;h2. Summary\n\nUsability testing for the Growia E-commerce website is being conducted. The focus is on the admin\u0027s ability to update stock products efficiently.\n\nh2. Context\n\nThe usability test aims to evaluate the website\u0027s layout and user experience. It specifically targets the admin\u0027s interaction with the product page.\n\nh2. Acceptance criteria\n\n* Admin can log in to the Growiashop application easily.\n* The product list is displayed clearly and is easily accessible.\n* The process of updating product stock is smooth and intuitive.\n\nh2. Other information\n\n* Testing involves users acting as admins.\n* Feedback will be collected on the user experience with the tested features.\n* Recommendations will be made based on areas identified as difficult or confusing for users.\n* Link to the dashboard: [https://5nags3iycnjh547.growia.education/dashboard/stock/|https://5nags3iycnjh547.growia.education/dashboard/stock/]\n* Growia Gadget: Distributor Produk Apple Terpercaya di Indonesia.&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;sqawithdwi@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;SQAwithDWI&quot;,&quot;accountId&quot;:&quot;712020:35327eba-5e2c-4823-b51b-0cda9c932b86&quot;,&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/user?accountId\u003d712020%3A35327eba-5e2c-4823-b51b-0cda9c932b86&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/issue/GROW-76/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/issue/10096&quot;,&quot;key&quot;:&quot;GROW-76&quot;,&quot;id&quot;:10096}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d9111b7f-363e-4206-b3a6-d50a64a0d800</testCaseGuid>
+</TestCaseEntity>

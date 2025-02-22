@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_</name>
+   <name>button_Back to Sign in</name>
    <tag></tag>
-   <elementGuidId>18597aa5-fca3-4db0-bd05-0fe92fa05450</elementGuidId>
+   <elementGuidId>545e9362-4fd6-4793-b29b-354e2a38aadc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='radix-:r1t:']/div[2]/div[3]/div/div/button[2]</value>
+         <value>(//button[@type='submit'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[id=&quot;radix-\:r1t\:&quot;] > .pt-4 > div:nth-child(4) > .mb-2 > div > button:nth-child(3)</value>
+         <value>internal:role=button[name=&quot;Back to Sign in&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,86 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2d767bcd-aacc-4268-9f63-f9b1635de390</webElementGuid>
+      <webElementGuid>f9d28319-bcdb-4740-b2fd-7c4e6d97aca6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-action</name>
+      <name>type</name>
       <type>Main</type>
-      <value>increment</value>
-      <webElementGuid>84be45fa-e5b8-4e0c-9582-e3222861ed87</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>9d8231ba-dcec-4cdd-8a62-794186ade651</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>bg-neutral-200 text-neutral-600 hover:text-neutral-700 hover:bg-neutral-300 h-full w-10 lg:w-20 rounded-r cursor-pointer</value>
-      <webElementGuid>16d70f6e-99d4-476f-b5f0-b3353a0ee566</webElementGuid>
+      <value>group w-full py-2 px-4 space-x-2 text-base bg-teal-100/10 border-[1px] border-teal-800 rounded-lg text-teal-700 hover:bg-teal-700 hover:text-white</value>
+      <webElementGuid>d7153318-7eec-4d53-8d98-8dc258696d0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>+</value>
-      <webElementGuid>b096c000-6c96-4f5c-82e9-388cc2e7f533</webElementGuid>
+      <value>Back to Sign in</value>
+      <webElementGuid>17459c7b-2d60-4f4e-8007-18c7e4ebcc24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;radix-:r1t:&quot;)/div[@class=&quot;pt-4 flex flex-col gap-1&quot;]/div[@class=&quot;flex flex-col items-center justify-center&quot;]/div[@class=&quot;mb-2 flex flex-row justify-center items-center gap-4&quot;]/div[@class=&quot;flex flex-row w-32 h-8 rounded-lg relative bg-transparent mt-2&quot;]/button[@class=&quot;bg-neutral-200 text-neutral-600 hover:text-neutral-700 hover:bg-neutral-300 h-full w-10 lg:w-20 rounded-r cursor-pointer&quot;]</value>
-      <webElementGuid>4d8258e0-15b8-4fcc-8045-93d85ff525af</webElementGuid>
+      <value>id(&quot;signin-form&quot;)/button[@class=&quot;group w-full py-2 px-4 space-x-2 text-base bg-teal-100/10 border-[1px] border-teal-800 rounded-lg text-teal-700 hover:bg-teal-700 hover:text-white&quot;]</value>
+      <webElementGuid>1f51a81c-af02-4794-83fa-b4af2b938d31</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>93330a6d-076c-4ae3-af0c-889954883d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='radix-:r1t:']/div[2]/div[3]/div/div/button[2]</value>
-      <webElementGuid>668b2883-8d06-48f7-8c80-7e42fdf1ede2</webElementGuid>
+      <value>//form[@id='signin-form']/button[2]</value>
+      <webElementGuid>1ea8e7cd-296b-4073-9eaf-cb42f8da8413</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='−'])[20]/following::button[1]</value>
-      <webElementGuid>671dc143-5344-4bf6-996f-72dcb52ab364</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/following::button[1]</value>
+      <webElementGuid>829672e0-95df-4917-b525-384f0261df50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Stok'])[20]/following::button[2]</value>
-      <webElementGuid>6777d8ef-b2c8-4434-ad33-037f661e8e34</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retype Password'])[1]/following::button[2]</value>
+      <webElementGuid>dca07e98-4ffc-4b12-8ff5-9d10e9297d95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[20]/preceding::button[1]</value>
-      <webElementGuid>964027c5-e651-4019-84b4-3bbd1dee0d26</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Back to Sign in']/parent::*</value>
+      <webElementGuid>65bc8ee7-0c6d-4c14-af63-a4f918532551</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[43]/div[2]/div[3]/div/div/button[2]</value>
-      <webElementGuid>636314cd-80a3-44a0-a4a6-4f36c12ba71a</webElementGuid>
+      <value>//button[2]</value>
+      <webElementGuid>485e4cb2-6228-4497-b1a8-0fa40d246e30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = '+' or . = '+')]</value>
-      <webElementGuid>29017f2f-ec5d-4226-8908-38b116460bad</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Back to Sign in' or . = 'Back to Sign in')]</value>
+      <webElementGuid>b77f58ef-0e73-453c-b9ec-c29e36625a83</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

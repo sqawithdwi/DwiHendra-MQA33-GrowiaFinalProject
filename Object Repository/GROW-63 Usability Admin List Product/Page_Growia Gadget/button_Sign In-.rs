@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_iPhone 15</name>
+   <name>button_Sign In-</name>
    <tag></tag>
-   <elementGuidId>771902f0-b208-417d-86c8-cda4abccf723</elementGuidId>
+   <elementGuidId>d6d03fb9-fc20-4cc4-8dd6-dc97078728ba</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-:r1t:']/div[2]/div/p</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'iPhone 15' or . = 'iPhone 15')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[id=&quot;radix-\:r1t\:&quot;] > .pt-4 > div > .text-lg >> nth=0</value>
+         <value>internal:role=button[name=&quot;Sign In ->&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -31,87 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
-      <webElementGuid>bba8b50c-93ac-4766-b24e-e416cefd67bc</webElementGuid>
+      <value>button</value>
+      <webElementGuid>f6e86f02-6d64-42c0-91a7-0253bd843e4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>375f48fd-1bf1-4254-bd1e-278a6b3da10c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>text-lg font-medium text-neutral-800</value>
-      <webElementGuid>69077721-c078-41ff-8351-fc8fbedb6d81</webElementGuid>
+      <value>group w-full py-2 px-4 space-x-2 text-base bg-cyan-800 rounded-lg text-cyan-100 hover:bg-cyan-700</value>
+      <webElementGuid>72bf22c7-db18-4d4b-bc41-5a2bd540792b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>iPhone 15</value>
-      <webElementGuid>d9acb822-6908-438a-9202-7779f66115d6</webElementGuid>
+      <value>Sign In-></value>
+      <webElementGuid>91ac1df4-bd49-44dd-95e3-011aada78733</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;radix-:r1t:&quot;)/div[@class=&quot;pt-4 flex flex-col gap-1&quot;]/div[@class=&quot;flex flex-row justify-center&quot;]/p[@class=&quot;text-lg font-medium text-neutral-800&quot;]</value>
-      <webElementGuid>037b44d4-4400-43a4-8dd5-2da849c7776e</webElementGuid>
+      <value>id(&quot;signin-form&quot;)/button[@class=&quot;group w-full py-2 px-4 space-x-2 text-base bg-cyan-800 rounded-lg text-cyan-100 hover:bg-cyan-700&quot;]</value>
+      <webElementGuid>7e6e95e0-0362-4bef-9068-808d857052e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>c99f4a7e-6940-4479-9656-5d98741b0785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='radix-:r1t:']/div[2]/div/p</value>
-      <webElementGuid>e6a81d12-7932-4d33-b720-1abe176afc00</webElementGuid>
+      <value>//form[@id='signin-form']/button</value>
+      <webElementGuid>69e78b22-f402-46b6-96eb-735a37a44b7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur Stok'])[22]/following::p[1]</value>
-      <webElementGuid>8de0c878-27b4-4ffa-be11-193da5b398b7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>8fc99965-e73f-46fe-8f7d-e7c87da78285</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[19]/following::p[1]</value>
-      <webElementGuid>38334e99-3c0b-47cb-8a4f-9689bb1ac768</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
+      <webElementGuid>edb13df7-ebc9-403c-a94a-dc9dac4de464</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Stok'])[20]/preceding::p[2]</value>
-      <webElementGuid>46a15b83-14c4-4879-9b7d-801c8beedb6d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='−'])[20]/preceding::p[2]</value>
-      <webElementGuid>62536b2a-e4d2-4e3d-8215-c042489481c1</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
+      <webElementGuid>63cdc13a-4fc9-4475-b741-438bb4a38960</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[43]/div[2]/div/p</value>
-      <webElementGuid>f35ff555-e2b0-409e-a32a-a3788728176e</webElementGuid>
+      <value>//form/button</value>
+      <webElementGuid>8cab7713-cd5c-4870-856a-bc030ad9ca47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = 'iPhone 15' or . = 'iPhone 15')]</value>
-      <webElementGuid>ed446071-0c04-460f-b338-eb256753aac0</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Sign In->' or . = 'Sign In->')]</value>
+      <webElementGuid>14e44c15-0017-40db-8793-b01c16a00a96</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -19,4 +19,9 @@
       <initValue>'GSadmin2024!'</initValue>
       <name>password</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://5nags3iycnjh547.growia.education/signup/'</initValue>
+      <name>SignupUrl</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

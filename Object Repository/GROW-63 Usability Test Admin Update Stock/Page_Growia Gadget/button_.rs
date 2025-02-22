@@ -3,10 +3,11 @@
    <description></description>
    <name>button_</name>
    <tag></tag>
-   <elementGuidId>18597aa5-fca3-4db0-bd05-0fe92fa05450</elementGuidId>
+   <elementGuidId>897ca6b8-5615-4d67-b7dc-88bfcb69ef4f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -28,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2d767bcd-aacc-4268-9f63-f9b1635de390</webElementGuid>
+      <webElementGuid>e49774e8-6689-4095-a708-798af5087a1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +37,7 @@
       <name>data-action</name>
       <type>Main</type>
       <value>increment</value>
-      <webElementGuid>84be45fa-e5b8-4e0c-9582-e3222861ed87</webElementGuid>
+      <webElementGuid>8e9103b2-a434-4379-a9c9-0c4de841ee6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-neutral-200 text-neutral-600 hover:text-neutral-700 hover:bg-neutral-300 h-full w-10 lg:w-20 rounded-r cursor-pointer</value>
-      <webElementGuid>16d70f6e-99d4-476f-b5f0-b3353a0ee566</webElementGuid>
+      <webElementGuid>dc897e7c-2be3-4159-ba9d-a7b681857bc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>+</value>
-      <webElementGuid>b096c000-6c96-4f5c-82e9-388cc2e7f533</webElementGuid>
+      <webElementGuid>39a00037-273e-4c60-8bae-5af798eb9cb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r1t:&quot;)/div[@class=&quot;pt-4 flex flex-col gap-1&quot;]/div[@class=&quot;flex flex-col items-center justify-center&quot;]/div[@class=&quot;mb-2 flex flex-row justify-center items-center gap-4&quot;]/div[@class=&quot;flex flex-row w-32 h-8 rounded-lg relative bg-transparent mt-2&quot;]/button[@class=&quot;bg-neutral-200 text-neutral-600 hover:text-neutral-700 hover:bg-neutral-300 h-full w-10 lg:w-20 rounded-r cursor-pointer&quot;]</value>
-      <webElementGuid>4d8258e0-15b8-4fcc-8045-93d85ff525af</webElementGuid>
+      <webElementGuid>7b0aefc6-9e26-4362-9932-7465f8eb5d9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -68,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r1t:']/div[2]/div[3]/div/div/button[2]</value>
-      <webElementGuid>668b2883-8d06-48f7-8c80-7e42fdf1ede2</webElementGuid>
+      <webElementGuid>8678fdeb-f3f8-4e9a-8ce6-517dc5abe469</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='−'])[20]/following::button[1]</value>
-      <webElementGuid>671dc143-5344-4bf6-996f-72dcb52ab364</webElementGuid>
+      <webElementGuid>280a4960-dada-4899-ac26-ccdeb5d9fb7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Stok'])[20]/following::button[2]</value>
-      <webElementGuid>6777d8ef-b2c8-4434-ad33-037f661e8e34</webElementGuid>
+      <webElementGuid>84088166-c954-47c4-910b-cbf515560e89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[20]/preceding::button[1]</value>
-      <webElementGuid>964027c5-e651-4019-84b4-3bbd1dee0d26</webElementGuid>
+      <webElementGuid>d60c7a2f-c7d5-4a59-b82f-6ca5d33858e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[43]/div[2]/div[3]/div/div/button[2]</value>
-      <webElementGuid>636314cd-80a3-44a0-a4a6-4f36c12ba71a</webElementGuid>
+      <webElementGuid>8805ac51-01a2-4839-be4a-8b838e63005e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = '+' or . = '+')]</value>
-      <webElementGuid>29017f2f-ec5d-4226-8908-38b116460bad</webElementGuid>
+      <webElementGuid>10f39642-4323-4279-bcc8-893f6071331e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

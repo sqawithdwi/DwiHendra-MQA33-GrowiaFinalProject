@@ -15,7 +15,7 @@
       <guid>e075253f-9b13-48dd-9074-2e707780280b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Case/GROW-72 Test GROW-26 Sebagai Admin, Saya ingin bisa melihat List Produk</testCaseId>
+      <testCaseId>Test Cases/Main Test Case/GROW-72 Test GROW-26 Sebagai Admin, melihat List Produk</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

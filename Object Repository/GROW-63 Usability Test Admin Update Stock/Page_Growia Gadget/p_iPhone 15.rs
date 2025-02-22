@@ -3,7 +3,7 @@
    <description></description>
    <name>p_iPhone 15</name>
    <tag></tag>
-   <elementGuidId>771902f0-b208-417d-86c8-cda4abccf723</elementGuidId>
+   <elementGuidId>e1597fd0-9de3-4d57-a09c-467c812928d6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -32,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>bba8b50c-93ac-4766-b24e-e416cefd67bc</webElementGuid>
+      <webElementGuid>ea877118-3b8f-483b-9303-aa47ef199071</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,7 +40,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-lg font-medium text-neutral-800</value>
-      <webElementGuid>69077721-c078-41ff-8351-fc8fbedb6d81</webElementGuid>
+      <webElementGuid>344830b7-f2d4-4366-8120-466d52147111</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <name>text</name>
       <type>Main</type>
       <value>iPhone 15</value>
-      <webElementGuid>d9acb822-6908-438a-9202-7779f66115d6</webElementGuid>
+      <webElementGuid>690b86ae-86ee-4b0e-83f3-8b9635a63642</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r1t:&quot;)/div[@class=&quot;pt-4 flex flex-col gap-1&quot;]/div[@class=&quot;flex flex-row justify-center&quot;]/p[@class=&quot;text-lg font-medium text-neutral-800&quot;]</value>
-      <webElementGuid>037b44d4-4400-43a4-8dd5-2da849c7776e</webElementGuid>
+      <webElementGuid>c6bf9e5f-6b70-48b3-b579-058150ace765</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r1t:']/div[2]/div/p</value>
-      <webElementGuid>e6a81d12-7932-4d33-b720-1abe176afc00</webElementGuid>
+      <webElementGuid>c41472b6-dd18-4501-b49d-4e092b63357d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur Stok'])[22]/following::p[1]</value>
-      <webElementGuid>8de0c878-27b4-4ffa-be11-193da5b398b7</webElementGuid>
+      <webElementGuid>51115c6f-ef5e-4c5b-b0b9-b06dd1194c6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[19]/following::p[1]</value>
-      <webElementGuid>38334e99-3c0b-47cb-8a4f-9689bb1ac768</webElementGuid>
+      <webElementGuid>bf4febbf-04d7-417a-beb8-00d04751dfb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Stok'])[20]/preceding::p[2]</value>
-      <webElementGuid>46a15b83-14c4-4879-9b7d-801c8beedb6d</webElementGuid>
+      <webElementGuid>fd3a2fff-7508-4139-bb46-9a491dbba42e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='−'])[20]/preceding::p[2]</value>
-      <webElementGuid>62536b2a-e4d2-4e3d-8215-c042489481c1</webElementGuid>
+      <webElementGuid>e5bf5853-f080-4ff2-a2c8-92d0ea6a3d15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[43]/div[2]/div/p</value>
-      <webElementGuid>f35ff555-e2b0-409e-a32a-a3788728176e</webElementGuid>
+      <webElementGuid>d61849ff-b779-4a0f-a50a-c4988cf85a17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,6 +112,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'iPhone 15' or . = 'iPhone 15')]</value>
-      <webElementGuid>ed446071-0c04-460f-b338-eb256753aac0</webElementGuid>
+      <webElementGuid>63c4dcf0-ff90-4d1e-b0da-53633ed90cd0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

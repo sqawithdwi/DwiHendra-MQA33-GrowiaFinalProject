@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Sebagai Admin, Saya ingin bisa login ke aplikasi Growiashop&#xd;
+Description: *Acceptance Criteria*&#xd;
+&#xd;
+Given Admin sudah berada dihalamn login admin&#xd;
+&#xd;
+When Admin input email&#xd;
+&#xd;
+And Input password&#xd;
+&#xd;
+And Klik tomnol Sign in&#xd;
+&#xd;
+Then Admin berhasil login jika memasukkan email dan kata sandi yang sesuai.&#xd;
+&#xd;
+Note :&#xd;
+&#xd;
+email : [admingrowia@gmail.com|mailto:admingrowia@gmail.com]&#xd;
+password : GSadmin2024!</description>
+   <name>GROW-25 Sebagai Admin, Saya ingin bisa login ke aplikasi Growiashop</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10020&quot;:[{&quot;id&quot;:5,&quot;name&quot;:&quot;GROW Sprint 2&quot;,&quot;state&quot;:&quot;active&quot;,&quot;boardId&quot;:2,&quot;goal&quot;:&quot;Final Project - Growia MQA 33 - Dwi Hendra&quot;,&quot;startDate&quot;:&quot;2025-02-17T02:00:33.105Z&quot;,&quot;endDate&quot;:&quot;2025-03-03T02:00:00.000Z&quot;}],&quot;customfield_10002&quot;:[],&quot;customfield_10017&quot;:&quot;purple&quot;,&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;EPIC_LINK_SHOULD_BE_USED&quot;,&quot;message&quot;:&quot;To set an epic as the parent, use the epic link instead&quot;}},&quot;customfield_10019&quot;:&quot;0|i0009r:&quot;},&quot;status&quot;:{&quot;id&quot;:10003,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://sqawithdwi.atlassian.net/&quot;,&quot;statusCategory&quot;:{&quot;id&quot;:2,&quot;key&quot;:&quot;new&quot;,&quot;colorName&quot;:&quot;blue-gray&quot;,&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/statuscategory/2&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/status/10003&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;GROW&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;Growia eCommerce - Dwi Hendra MQA 33&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Sebagai Admin, Saya ingin bisa login ke aplikasi Growiashop&quot;,&quot;description&quot;:&quot;*Acceptance Criteria*\n\nGiven Admin sudah berada dihalamn login admin\n\nWhen Admin input email\n\nAnd Input password\n\nAnd Klik tomnol Sign in\n\nThen Admin berhasil login jika memasukkan email dan kata sandi yang sesuai.\n\nNote :\n\nemail : [admingrowia@gmail.com|mailto:admingrowia@gmail.com]\npassword : GSadmin2024!&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;sqawithdwi@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;SQAwithDWI&quot;,&quot;accountId&quot;:&quot;712020:35327eba-5e2c-4823-b51b-0cda9c932b86&quot;,&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/user?accountId\u003d712020%3A35327eba-5e2c-4823-b51b-0cda9c932b86&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/issue/GROW-25/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/issue/10044&quot;,&quot;key&quot;:&quot;GROW-25&quot;,&quot;id&quot;:10044}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f1101c7-4dcb-4e7c-85f2-b0a0412c8632</testCaseGuid>
+</TestCaseEntity>

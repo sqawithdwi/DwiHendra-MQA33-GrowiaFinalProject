@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Test GROW-10 Sebagai Buyer, Saya ingin bisa mendaftar pada aplikasi Growiashop
+Description: Tests Acceptance Criteria :&#xd;
+&#xd;
+*Feature* User Registration&#xd;
+&#xd;
+*Given* Buyer sudah berada di halaman Sign up&#xd;
+&#xd;
+*When* Buyer input Nama&#xd;
+&#xd;
+*And* input email&#xd;
+&#xd;
+*And* input password&#xd;
+&#xd;
+*And* input retype password&#xd;
+&#xd;
+*And* klik tombol Sign up&#xd;
+&#xd;
+*Then* Buyer berhasil mendaftar&#xd;
+&#xd;
+*And* Buyer tidak bisa mendaftarkan email yang sudah terdaftar.&#xd;
+&#xd;
+*And* Email yang dimasukan harus sesuai dengan format.&#xd;
+&#xd;
+*And* Password harus mengandung minimal satu huruf besar, satu special karakter dan satu angka.&#xd;
+&#xd;
+*And* minimal password harus 8 karakter.&#xd;
+&#xd;
+*And* Retype password yang dimasukan harus sesuai dengan password yang dimasukan sebelumnya.</description>
+   <name>GROW-82 Test GROW-10 Sebagai Buyer, Saya ingin bisa mendaftar pada aplikasi Growiashop</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10000&quot;:&quot;{}&quot;,&quot;customfield_10002&quot;:[],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;EPIC_LINK_SHOULD_BE_USED&quot;,&quot;message&quot;:&quot;To set an epic as the parent, use the epic link instead&quot;}},&quot;customfield_10019&quot;:&quot;0|i000mf:&quot;},&quot;status&quot;:{&quot;id&quot;:10003,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://sqawithdwi.atlassian.net/&quot;,&quot;statusCategory&quot;:{&quot;id&quot;:2,&quot;key&quot;:&quot;new&quot;,&quot;colorName&quot;:&quot;blue-gray&quot;,&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/statuscategory/2&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/status/10003&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;GROW&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;Growia eCommerce - Dwi Hendra MQA 33&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Test GROW-10 Sebagai Buyer, Saya ingin bisa mendaftar pada aplikasi Growiashop&quot;,&quot;description&quot;:&quot;Tests Acceptance Criteria :\r\n\r\n*Feature* User Registration\r\n\r\n*Given* Buyer sudah berada di halaman Sign up\r\n\r\n*When* Buyer input Nama\r\n\r\n*And* input email\r\n\r\n*And* input password\r\n\r\n*And* input retype password\r\n\r\n*And* klik tombol Sign up\r\n\r\n*Then* Buyer berhasil mendaftar\r\n\r\n*And* Buyer tidak bisa mendaftarkan email yang sudah terdaftar.\r\n\r\n*And* Email yang dimasukan harus sesuai dengan format.\r\n\r\n*And* Password harus mengandung minimal satu huruf besar, satu special karakter dan satu angka.\r\n\r\n*And* minimal password harus 8 karakter.\r\n\r\n*And* Retype password yang dimasukan harus sesuai dengan password yang dimasukan sebelumnya.&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;sqawithdwi@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;SQAwithDWI&quot;,&quot;accountId&quot;:&quot;712020:35327eba-5e2c-4823-b51b-0cda9c932b86&quot;,&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/user?accountId\u003d712020%3A35327eba-5e2c-4823-b51b-0cda9c932b86&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/issue/GROW-82/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://sqawithdwi.atlassian.net/rest/api/2/issue/10102&quot;,&quot;key&quot;:&quot;GROW-82&quot;,&quot;id&quot;:10102}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df23cbd3-720d-461a-bb13-04bd6dad6302</testCaseGuid>
+</TestCaseEntity>

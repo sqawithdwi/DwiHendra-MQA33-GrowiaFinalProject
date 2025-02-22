@@ -10,7 +10,7 @@ When Klik menu List Produk&#xd;&#xd;
 Then Aplikasi menampilkan halaman listing produk&#xd;&#xd;
 &#xd;&#xd;
 And Admin bisa melihat semua produk-produk yang dijual</description>
-   <name>GROW-72 Test GROW-26 Sebagai Admin, Saya ingin bisa melihat List Produk</name>
+   <name>GROW-72 Test GROW-26 Sebagai Admin, melihat List Produk</name>
    <tag>jira-integration</tag>
    <integratedEntity>
       <productName>JIRA</productName>
